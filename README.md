@@ -1,16 +1,21 @@
 
-# module::ImageWriterTiff  [![Status](https://github.com/Wandalen/wImageWriterTiff/workflows/Publish/badge.svg)](https://github.com/Wandalen/wImageWriterTiff/actions?query=workflow%3APublish) [![experimental](https://img.shields.io/badge/stability-experimental-orange.svg)](https://github.com/emersion/stability-badges#experimental)
+# module::ImageWriterTiff  [![Status](https://github.com/Wandalen/wImageWriterTiff/workflows/publish/badge.svg)](https://github.com/Wandalen/wImageWriterTiff/actions?query=workflow%3Apublish) [![experimental](https://img.shields.io/badge/stability-experimental-orange.svg)](https://github.com/emersion/stability-badges#experimental)
 
 ___
 
-## Try out
+## Try out from the repository
 ```
+git clone https://github.com/Wandalen/wImageWriterTiff
+cd wImageWriterTiff
 npm install
 node sample/Sample.s
 ```
 
-## To add
+## To add to your project
 ```
 npm add 'wimagewritertiff@alpha'
 ```
+
+
+
 
